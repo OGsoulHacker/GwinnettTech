@@ -1,4 +1,4 @@
-package com.example.hellofx;
+package com.example.fx;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
